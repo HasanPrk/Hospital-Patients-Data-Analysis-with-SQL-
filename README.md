@@ -78,9 +78,8 @@ Why does this matter? If NULLs are left unhandled, later reports (like counting 
 ---
 
 ## 🗂️ Repository Structure
+
 ```                   
- ┣ assets/                           # screenshots used in this README
- ┃ ┗ Data-Model.jpg
  ┣ report/
  ┃ ┗ Hospital Patients Data Analysis.pdf
  ┣ Queries-And-Outputs.md 
