@@ -77,19 +77,24 @@ Why does this matter? If NULLs are left unhandled, later reports (like counting 
 
 ---
 
-## 📁 Repository Structure
-
-```
-├── Hospital Patients Data Analysis.pdf     # Report of SQL Project
-├── Queries-And-Outputs.md/                 # Queries for questions & Query output screenshots
-└── README.md
+## 🗂️ Repository Structure
+```                   
+ ┣ assets/                           # screenshots used in this README
+ ┃ ┗ Data-Model.jpg
+ ┣ report/
+ ┃ ┗ Hospital Patients Data Analysis.pdf
+ ┣ Queries-And-Outputs.md 
+ ┗ README.md
 ```
 
 ---
 
-## 📬 Contact Me
 
-- **Data Analyst:** Mohammadhasan Pourkabgani
-- **Email:** Mh.pourkabgani91@gmail.com
-- **LinkedIn:** www.linkedin.com/in/mohammadhasan-pourkabgani
-- **GitHub:** https://github.com/HasanPrk
+## 📬 How to  Contact!
+
+-  **Data Analyst:** Mohammadhasan Pourkabgani
+-  **LinkedIn** — [MohammadHasan Pourkabgani](https://www.linkedin.com/in/mohammadhasan-pourkabgani/)
+-  **GitHub** — [Hasanprk](https://github.com/Hasanprk)
+-  **Email** — mh.pourkabgani91@gmail.com
+
+If you found this project useful or have any feedback, I'd genuinely love to hear it! 
